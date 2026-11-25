@@ -1,0 +1,1 @@
+Jardín de Peonías para AL. Abre index.html en el navegador o publícalo en GitHub Pages. El título AL usa letra normal, mientras la dedicatoria conserva su letra cursiva. Se mantienen las peonías y la animación de pétalos.
